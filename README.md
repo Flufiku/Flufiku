@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##This is a placeholder README because i have no clue what to write here.
+## This is a placeholder README because i have no clue what to write here.
 
-##Waluigi for president
+## Waluigi for president
 
 <!--
 **Flufiku/Flufiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
